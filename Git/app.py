@@ -1,3 +1,5 @@
+# this is restful api using flask
+
 from flask import Flask, jsonify, request
 from query_latest2_database import number
 from query_sqkite_database import bin_num, card_typ, card_catg, bank
